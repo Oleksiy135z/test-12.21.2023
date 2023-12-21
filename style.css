@@ -1,0 +1,18 @@
+.cartonka {
+    position: relative;
+    width: 1500px;
+    height: 1500px;
+}
+
+.cartonka img {
+    width: 100%;
+    display: block;
+}
+
+.img-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: white;
+    font-size: 24px;
+}
